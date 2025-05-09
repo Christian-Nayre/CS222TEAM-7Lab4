@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cnayr\\OneDrive\\Documents\\Calculator_CS\\Calculator App\\Calculator App\\Calculator App.csproj": {}
+    "C:\\Users\\paula\\Source\\Repos\\CS222TEAM-7Lab4\\Calculator_CS\\Calculator App\\Calculator App\\Calculator App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cnayr\\OneDrive\\Documents\\Calculator_CS\\Calculator App\\Calculator App\\Calculator App.csproj": {
+    "C:\\Users\\paula\\Source\\Repos\\CS222TEAM-7Lab4\\Calculator_CS\\Calculator App\\Calculator App\\Calculator App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cnayr\\OneDrive\\Documents\\Calculator_CS\\Calculator App\\Calculator App\\Calculator App.csproj",
+        "projectUniqueName": "C:\\Users\\paula\\Source\\Repos\\CS222TEAM-7Lab4\\Calculator_CS\\Calculator App\\Calculator App\\Calculator App.csproj",
         "projectName": "Calculator App",
-        "projectPath": "C:\\Users\\cnayr\\OneDrive\\Documents\\Calculator_CS\\Calculator App\\Calculator App\\Calculator App.csproj",
-        "packagesPath": "C:\\Users\\cnayr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cnayr\\OneDrive\\Documents\\Calculator_CS\\Calculator App\\Calculator App\\obj\\",
+        "projectPath": "C:\\Users\\paula\\Source\\Repos\\CS222TEAM-7Lab4\\Calculator_CS\\Calculator App\\Calculator App\\Calculator App.csproj",
+        "packagesPath": "C:\\Users\\paula\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paula\\Source\\Repos\\CS222TEAM-7Lab4\\Calculator_CS\\Calculator App\\Calculator App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cnayr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\paula\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
