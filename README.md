@@ -2,13 +2,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/12ba7e16-c56d-4849-8d94-f966257a1035" width="200" height="200">
+      <img src="https://github.com/user-attachments/assets/12ba7e16-c56d-4849-8d94-f966257a1035" width="300" height="150">
     </td>
-    <td style="vertical-align: top; padding-left: 10px;">
-      This project is a simple GUI-based calculator built using C# and Windows Forms. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is designed to be intuitive, with a clean and aesthetically pleasing interface. ✨
+    <td>
+      <img src="https://github.com/user-attachments/assets/fbbe0463-e2a2-4029-99a2-46e60b68c487" width="300" height="150">
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      This project is a simple C# Windows Forms calculator that performs basic arithmetic operations—addition, subtraction, multiplication, and division—with support for decimals, a history log, and a theme toggle. It features a clean, user-friendly interface with responsive buttons and event-driven logic, making it both functional and aesthetically pleasing. ✨
     </td>
   </tr>
 </table>
+
 
 ## Project Overview
 The application is a basic calculator with the following features:
