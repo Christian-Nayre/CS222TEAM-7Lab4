@@ -57,7 +57,7 @@ Add the following controls to the form:
 
 | Control                | Name        | Property Value               |
 |------------------------|-------------|------------------------------|
-| Text Box               | txtInput    | ✏️                            |
+| Text Box               |  `txtInput`    | ✏️                            |
 | Button (0-9)           | `btn<Number>` | Example: `btn1` 🔢            |
 | All Clear (AC)       | `btnAC`       | `AC` 🧹                       |
 | Clear (C)              | `btnClear`    | `C` 🧽                        |
