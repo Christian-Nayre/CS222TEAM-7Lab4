@@ -58,15 +58,15 @@ Add the following controls to the form:
 | Control                | Name        | Property Value               |
 |------------------------|-------------|------------------------------|
 | Text Box               | txtInput    | ✏️                            |
-| Button (0-9)           | btn<Number> | Example: `btn1` 🔢            |
-| All Clear (AC)       | btnAC       | `AC` 🧹                       |
-| Clear (C)              | btnClear    | `C` 🧽                        |
-| Addition (+)           | btnAdd      | `➕`                          |
-| Subtraction (-)        | btnMinus    | `➖`                          |
-| Multiplication (*)     | btnMultiply | `✖️`                         |
-| Division (/)           | btnDivide   | `➗`                          |
-| Equal (=)              | btnEqual    | `=` ✅                        |
-| Point (.)              | btnPoint    | `.` 🔘                        |
+| Button (0-9)           | `btn<Number>` | Example: `btn1` 🔢            |
+| All Clear (AC)       | `btnAC`       | `AC` 🧹                       |
+| Clear (C)              | `btnClear`    | `C` 🧽                        |
+| Addition (+)           | `btnAdd`      | `➕`                          |
+| Subtraction (-)        | `btnMinus`    | `➖`                          |
+| Multiplication (*)     | `btnMultiply`  | `✖️`                         |
+| Division (/)           | `btnDivide`   | `➗`                          |
+| Equal (=)              | `btnEqual`    | `=` ✅                        |
+| Point (.)              | `btnPoint`    | `.` 🔘                        |
 | Theme Toggle Button    | `btnToggleTheme` | Switches theme 🌗               |
 | History Box            | `lstHistory` | Displays calculation history 📜   |
 ---
