@@ -61,17 +61,19 @@ Feel free to adjust the layout and appearance to suit your preferences, as long 
 ## Tools Used 🛠️
 - **Microsoft Visual Studio**: IDE for developing the Windows Forms application. 🖥️
 - **C#**: Programming language for logic implementation. 🖋️
+- **Windows Forms**: GUI framework for building the interface.
 
 ## How to Run ▶️
 1. Open the project in Visual Studio. 🛠️
 2. Build and run the application using the Start button. 🚀
 3. Interact with the calculator to perform calculations. ✍️
 
-<h2>Sample Output</h2>
+----
+<h2>Sample Output 🔢 </h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c9563096-4367-4ae6-a90a-3e88054d5a46" width="45%" />
-  <img src="https://github.com/user-attachments/assets/de76aea3-18fc-4b54-a389-ccba67ee91f9" width="45%" />
+  <img src="https://github.com/user-attachments/assets/af0070ae-9a3f-4556-a840-3067a8c5bc05" width="45%" />
+  <img src="https://github.com/user-attachments/assets/1fdfc39a-1d4d-4d2b-976d-78d49d9e2d10" width="45%" />
 </p>
 
 <p align="center">
@@ -84,5 +86,9 @@ Feel free to adjust the layout and appearance to suit your preferences, as long 
   <img src="https://github.com/user-attachments/assets/a3bcfea6-5c72-4bfc-afa0-d09ee832fba7" width="45%" />
 </p>
 
+----
 ## Contact ✉️
-If you encounter any issues or need further assistance, feel free to reach out!
+Found a bug or want to suggest a feature? Feel free to open an issue or drop a message!
+
+
+> _"Simplicity is the soul of efficiency." — Austin Freeman_ ✨
