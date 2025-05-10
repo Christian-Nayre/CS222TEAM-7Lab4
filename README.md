@@ -59,7 +59,7 @@ Add the following controls to the form:
 |------------------------|-------------|------------------------------|
 | Text Box               | txtInput    | ✏️                            |
 | Button (0-9)           | btn<Number> | Example: `btn1` 🔢            |
-| Clear Entry (CE)       | btnCE       | `CE` 🧹                       |
+| All Clear (AC)       | btnAC       | `AC` 🧹                       |
 | Clear (C)              | btnClear    | `C` 🧽                        |
 | Addition (+)           | btnAdd      | `➕`                          |
 | Subtraction (-)        | btnMinus    | `➖`                          |
