@@ -38,12 +38,15 @@ Add the following controls to the form:
 | Division (/)           | btnDivide   | `➗`                          |
 | Equal (=)              | btnEqual    | `=` ✅                        |
 | Point (.)              | btnPoint    | `.` 🔘                        |
+| Theme Toggle Button    | `btnToggleTheme` | Switches theme 🌗               |
+| History Box            | `lstHistory` | Displays calculation history 📜   |
 
 ### Event Handlers ⚙️
-1. **Numeric and Decimal Buttons**:
-    - Assign the `Click` event handler: `button_click` 🖱️.
-2. **Operator Buttons (+, -, *, /)**:
-    - Assign the `Click` event handler: `operator_click` ➕➖✖️➗.
+- `button_click`: Handles all number and decimal inputs.
+- `operator_click`: Handles arithmetic operations.
+- `btnEqual_Click`: Computes the expression.
+- `btnCE_Click`, `btnC_Click`: Clear entry and full reset.
+- `btnToggleTheme_Click`: Theme switching logic.
 
 ## Expected Output ✅
 The calculator should:
