@@ -14,12 +14,22 @@
 </table>
 
 ---
-### Project Overview
-The application is a basic calculator with the following features:
-- **Numeric Input (0-9) 🔢**: Buttons for numbers 0 through 9.
-- **Operators ➕➖✖️➗**: Addition, subtraction, multiplication, and division.
-- **Special Buttons 🧹**: Clear Entry (CE), Clear (C), Decimal Point (.), and Equals (=).
-- **Aesthetic Design 🎨**: Customizable colors.
+### 🚀 Project Overview  
+This Windows Forms calculator includes intuitive features and a sleek, switchable theme. Here’s what it offers:
+
+- **Numeric Input (0-9) 🔢**: Enter values using buttons for digits 0 through 9.  
+- **Operators ➕➖✖️➗**: Perform basic arithmetic operations — addition, subtraction, multiplication, and division.  
+- **Special Buttons 🧹**:  
+  - `C` – Clears all input and resets the calculator.  
+  - `CE` – Deletes the last entered character.  
+  - `.` – Allows decimal input.  
+  - `=` – Evaluates the current expression.  
+- **Expression History 📜**:  
+  - Displays a history of recent calculations.  
+  - Most recent results appear at the top.  
+  - Includes a **Clear History** button to wipe the history list.  
+- **Theme Toggle 🌗**:  
+  - Switch between **dark** and **light** modes dynamically.  
 ---
 ### Instructions for Setup 🛠️
 1. Clone the repository:
