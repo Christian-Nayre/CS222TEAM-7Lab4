@@ -64,10 +64,22 @@ Feel free to adjust the layout and appearance to suit your preferences, as long 
 2. Build and run the application using the Start button. 🚀
 3. Interact with the calculator to perform calculations. ✍️
 
-----
-## Sample Output
-![Image](https://github.com/user-attachments/assets/c9563096-4367-4ae6-a90a-3e88054d5a46)
+<h2>Sample Output</h2>
 
-----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9563096-4367-4ae6-a90a-3e88054d5a46" width="45%" />
+  <img src="https://github.com/user-attachments/assets/de76aea3-18fc-4b54-a389-ccba67ee91f9" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/346d52a9-5a82-4e74-a56b-6a3138d9417a" width="45%" />
+  <img src="https://github.com/user-attachments/assets/4a5fb285-ca8d-4fc7-a84e-2d9e35b8969c" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5647aa44-92a1-46f7-8244-3aa5205ddd44" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a3bcfea6-5c72-4bfc-afa0-d09ee832fba7" width="45%" />
+</p>
+
 ## Contact ✉️
 If you encounter any issues or need further assistance, feel free to reach out!
