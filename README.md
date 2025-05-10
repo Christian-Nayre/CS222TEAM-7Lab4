@@ -22,6 +22,12 @@ The application is a basic calculator with the following features:
 - **Aesthetic Design 🎨**: Customizable colors.
 
 ## Instructions for Setup 🛠️
+1. Clone the repository:
+    ```
+    git clone <repository-url>
+    ```
+2. Open the solution file in Visual Studio.
+3. Build and run the project.
 
 ### Form Properties
 1. **Appearance**:
