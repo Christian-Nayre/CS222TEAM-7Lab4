@@ -64,5 +64,10 @@ Feel free to adjust the layout and appearance to suit your preferences, as long 
 2. Build and run the application using the Start button. 🚀
 3. Interact with the calculator to perform calculations. ✍️
 
+----
+## Sample Output
+
+
+----
 ## Contact ✉️
 If you encounter any issues or need further assistance, feel free to reach out!
