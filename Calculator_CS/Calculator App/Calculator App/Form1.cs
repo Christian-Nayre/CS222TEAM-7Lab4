@@ -204,7 +204,14 @@ namespace Calculator_App
 
         private void btnPoint_Click(object sender, EventArgs e)
         {
-            if (!txtBox.Text.Contains("."))
+            // Get the last number part after the last operator
+            string text = txtBox.Text;
+            char[] operators = { '+', '-', '*', '/' };
+            int lastOperatorIndex = text.LastIndexOfAny(operators);
+
+            string lastNumber = lastOperatorIndex >= 0 ? text.Substring(lastOperatorIndex + 1) : text;
+
+            if (!lastNumber.Contains("."))
             {
                 txtBox.Text += ".";
             }
