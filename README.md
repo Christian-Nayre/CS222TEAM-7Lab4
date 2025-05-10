@@ -21,7 +21,7 @@ This Windows Forms calculator includes intuitive features and a sleek, switchabl
 - **Operators ➕➖✖️➗**: Perform basic arithmetic operations — addition, subtraction, multiplication, and division.  
 - **Special Buttons 🧹**:  
   - `C` – Clears all input and resets the calculator.  
-  - `CE` – Deletes the last entered character.  
+  - `AC` – Deletes the last entered character.  
   - `.` – Allows decimal input.  
   - `=` – Evaluates the current expression.  
 - **Expression History 📜**:  
