@@ -1,13 +1,21 @@
-# Basic Calculator 🧮
-
-This project is a simple GUI-based calculator built using C# and Windows Forms. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is designed to be intuitive, with a clean and aesthetically pleasing interface. ✨
+# Basic Calculator 🧮   
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/12ba7e16-c56d-4849-8d94-f966257a1035" width="200" height="200">
+    </td>
+    <td style="vertical-align: top; padding-left: 10px;">
+      This project is a simple GUI-based calculator built using C# and Windows Forms. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is designed to be intuitive, with a clean and aesthetically pleasing interface. ✨
+    </td>
+  </tr>
+</table>
 
 ## Project Overview
 The application is a basic calculator with the following features:
 - **Numeric Input (0-9) 🔢**: Buttons for numbers 0 through 9.
 - **Operators ➕➖✖️➗**: Addition, subtraction, multiplication, and division.
 - **Special Buttons 🧹**: Clear Entry (CE), Clear (C), Decimal Point (.), and Equals (=).
-- **Aesthetic Design 🎨**: Customizable font styles, sizes, and colors.
+- **Aesthetic Design 🎨**: Customizable colors.
 
 ## Instructions for Setup 🛠️
 
@@ -15,7 +23,7 @@ The application is a basic calculator with the following features:
 1. **Appearance**:
     - Text: `Basic Calculator 🧮`
     - FormBorderStyle: `Fixed Single` 🔒
-    - Customize font styles, sizes, backgrounds, and colors. 🎨
+    - Customize colors. 🎨
 2. **Design**:
     - Name: `frmCalculator` 🖼️
 3. **Layout**:
