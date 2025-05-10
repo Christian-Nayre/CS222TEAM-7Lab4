@@ -66,7 +66,7 @@ Feel free to adjust the layout and appearance to suit your preferences, as long 
 
 ----
 ## Sample Output
-https://github.com/Christian-Nayre/CS222TEAM-7Lab4/issues/1
+![Image](https://github.com/user-attachments/assets/c9563096-4367-4ae6-a90a-3e88054d5a46)
 
 ----
 ## Contact ✉️
