@@ -99,8 +99,20 @@ Feel free to adjust the layout and appearance to suit your preferences, as long 
 </p>
 
 ----
-## Contact ✉️
-Found a bug or want to suggest a feature? Feel free to open an issue or drop a message!
 
+## 👥 Team Members  
+
+- 🧑‍💻 Alcaraz, Paul C. 
+- 🧑‍💻 Guillermo, Gil Bryan O.  
+- 🧑‍💻 Nayre, Christian B. 
+- 👩‍💻 Rectin, Marielle J. 
+
+----
+
+## 🙏 Acknowledgement  
+
+We, the developers of this project, would like to extend our sincere gratitude to Ms. Fatima Marie Agdon, our CS 222 - Advanced Object-Oriented Programming professor, for her continuous guidance, support, and encouragement throughout the development of this calculator application. Her expertise in C# and object-oriented principles, along with her engaging teaching style, helped us better understand complex concepts and apply them effectively. This project stands as a reflection of the knowledge and inspiration she shared with us. 💻✨
+
+----
 
 > _"Simplicity is the soul of efficiency." — Austin Freeman_ ✨
