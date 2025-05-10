@@ -13,15 +13,15 @@
   </tr>
 </table>
 
-
-## Project Overview
+---
+### Project Overview
 The application is a basic calculator with the following features:
 - **Numeric Input (0-9) 🔢**: Buttons for numbers 0 through 9.
 - **Operators ➕➖✖️➗**: Addition, subtraction, multiplication, and division.
 - **Special Buttons 🧹**: Clear Entry (CE), Clear (C), Decimal Point (.), and Equals (=).
 - **Aesthetic Design 🎨**: Customizable colors.
-
-## Instructions for Setup 🛠️
+---
+### Instructions for Setup 🛠️
 1. Clone the repository:
     ```
     git clone <repository-url>
@@ -29,6 +29,7 @@ The application is a basic calculator with the following features:
 2. Open the solution file in Visual Studio.
 3. Build and run the project.
 
+---
 ### Form Properties
 1. **Appearance**:
     - Text: `Basic Calculator 🧮`
@@ -40,7 +41,7 @@ The application is a basic calculator with the following features:
     - StartPosition: `Center Screen` 🎯
 4. **Window Style**:
     - MaximizeBox: `False` 🚫
-
+---
 ### Controls 🖱️
 Add the following controls to the form:
 
@@ -58,29 +59,31 @@ Add the following controls to the form:
 | Point (.)              | btnPoint    | `.` 🔘                        |
 | Theme Toggle Button    | `btnToggleTheme` | Switches theme 🌗               |
 | History Box            | `lstHistory` | Displays calculation history 📜   |
-
+---
 ### Event Handlers ⚙️
 - `button_click`: Handles all number and decimal inputs.
 - `operator_click`: Handles arithmetic operations.
 - `btnEqual_Click`: Computes the expression.
 - `btnCE_Click`, `btnC_Click`: Clear entry and full reset.
 - `btnToggleTheme_Click`: Theme switching logic.
-
+---
 ## Expected Output ✅
 The calculator should:
 1. Accept numeric input via buttons. 🔢
 2. Perform basic arithmetic operations. ➕➖✖️➗
 3. Clear the input field when CE or C is pressed. 🧹
 4. Display results in the `txtInput` text box. 📋
-
+---
 ## Customization 🎨
 Feel free to adjust the layout and appearance to suit your preferences, as long as the calculator behaves as described. 🌟
 
+
+---
 ## Tools Used 🛠️
 - **Microsoft Visual Studio**: IDE for developing the Windows Forms application. 🖥️
 - **C#**: Programming language for logic implementation. 🖋️
 - **Windows Forms**: GUI framework for building the interface.
-
+---
 ## How to Run ▶️
 1. Open the project in Visual Studio. 🛠️
 2. Build and run the application using the Start button. 🚀
